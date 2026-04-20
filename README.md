@@ -141,3 +141,5 @@ retail-sales-sql-analysis/
 **Kedaar** | Aspiring Data Analyst  
 Currently building a portfolio in SQL, Power BI, and Python  
 Open to fresher Data Analyst roles.
+
+LinkedIn : www.linkedin.com/in/kedaar-prabhu-aa90b0232
